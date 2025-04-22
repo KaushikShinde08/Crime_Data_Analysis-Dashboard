@@ -16,7 +16,7 @@ The analysis spans data from **29 cities**, offering a regional perspective on c
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](https://raw.githubusercontent.com/KaushikShinde08/Crime_Data_analysis/refs/heads/main/dashboard.jpeg)
+![Dashboard Preview](https://raw.githubusercontent.com/KaushikShinde08/Crime_Data_Analysis-Dashboard/refs/heads/main/dashboard.jpeg)
 
 ## 🎯 Objectives
 
